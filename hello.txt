@@ -1,1 +1,3 @@
-This is my first repository from the command line!
+I changed this to something different on my third commit.
+
+This is different now
